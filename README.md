@@ -21,7 +21,7 @@
         <img src="https://i.pinimg.com/736x/a5/2f/7e/a52f7ed468dbd95e38ceb40b2d6e6687.jpg" width="350" alt="Coding Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
       </td>
       <td align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=FF6B6B&multiline=true&width=450&height=300&lines=👤+Name:+Hoàng+Kim+Tiến+Đạt;🌐+Bio:+https://gun.lol/hktd_roblox//;🔥+Username:+Zorcex;🇻🇳+Location:+Quang+Tri,+Vietnam;💖+Passion:+Coding+and+Innovation;❤️+Crush:+???" alt="Personal Info Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=FF6B6B&multiline=true&width=450&height=300&lines=👤+Name:+Hoang+Kim+Tien+Dat;🌐+Bio:+https://gun.lol/zorcex//;🔥+Username:+Zorcex;🇻🇳+Location:+Quang+Tri,+Vietnam;💖+Passion:+Coding+and+Innovation;❤️+Crush:+???" alt="Personal Info Animation" />
       </td>
     </tr>
   </table>
