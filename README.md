@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=🇻🇳+Hello!+I+am+HKTD+Roblox;Welcome+to+the+world+of+coding!+✨;Let's+create+something+amazing!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=🇻🇳+Hello!+I+am+Zorcex;Welcome+to+the+world+of+coding!+✨;Let's+create+something+amazing!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
         <img src="https://i.pinimg.com/736x/a5/2f/7e/a52f7ed468dbd95e38ceb40b2d6e6687.jpg" width="350" alt="Coding Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
       </td>
       <td align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=FF6B6B&multiline=true&width=450&height=300&lines=👤+Name:+Hoàng+Kim+Tiến+Đạt;🌐+Bio:+https://gun.lol/hktd_roblox//;🔥+Username:+HKTD-Roblox;🇻🇳+Location:+Quang+Tri,+Vietnam;💖+Passion:+Coding+and+Innovation;❤️+Crush:+???" alt="Personal Info Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=FF6B6B&multiline=true&width=450&height=300&lines=👤+Name:+Hoàng+Kim+Tiến+Đạt;🌐+Bio:+https://gun.lol/hktd_roblox//;🔥+Username:+Zorcex;🇻🇳+Location:+Quang+Tri,+Vietnam;💖+Passion:+Coding+and+Innovation;❤️+Crush:+???" alt="Personal Info Animation" />
       </td>
     </tr>
   </table>
@@ -30,7 +30,7 @@
 ## 🎯 ABOUT ME
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=700&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🔭+Currently+working+on+awesome+projects;🌱+Learning+programming;👨‍💻+Check+out+all+my+projects+in+my+repositories;❤️+I+build+whatever+I+love+in+technology;⚡+Fun+fact:+I+often+use+AI+for+coding+hihi!" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=700&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🔭+Currently+working+on+awesome+projects;🌱+Learning+programming;👨‍💻+Check+out+all+my+projects+in+my+repositories;❤️+I+build+whatever+I+love+in+technology;⚡+Fun+fact:+I+often+use+AI+for+coding,+hehe!" alt="About Me Animation" />
 </div>
 
 <div align="center">
@@ -84,7 +84,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🇻🇳+Thanks+for+visiting+my+profile!+✨;🚀+Let's+build+the+future+together!+🚀;💻+Vietnam+Strong+-+Code+Strong!+💻;🌸+Happy+Coding!+🌸" alt="Footer typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🇻🇳+Thanks+for+visiting+my+profile!+✨;🚀+Let's+build+the+future+together!+🚀;💻+Vietnam+Strong+-+Code+Strong!+💻;🌸+Happy+coding!+🌸" alt="Footer typing" />
 </div>
 
 <div align="center">
